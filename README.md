@@ -18,4 +18,6 @@ To set up filters, just use the familiar [Poe.Trade](https://poe.trade/), then c
   <img src="https://user-images.githubusercontent.com/45703525/90262595-2acfbd80-de57-11ea-801b-729d866336d0.png" width="500" alt="Monitoring results">
 </p>
 
-# In the near future, it is planned to add more opportunities for trade automation
+# Coming Soon
+We are planning to add more options for trading automation.
+[Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)
