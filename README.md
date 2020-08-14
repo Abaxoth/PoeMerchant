@@ -19,5 +19,5 @@ To set up filters, just use the familiar [Poe.Trade](https://poe.trade/), then c
 </p>
 
 # Coming Soon
-We are planning to add more options for trading automation.
-[Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)
+We are planning to add more options for trading automation. Get started now [Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)
+
