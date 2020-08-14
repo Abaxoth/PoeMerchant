@@ -1,5 +1,5 @@
 # ![alt text](https://user-images.githubusercontent.com/45703525/89988517-52bcf680-dc88-11ea-9ae6-f7e4b09cf850.png) PoE Merchant
-[Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)
+[Download for Windows](https://github.com/Abaxoth/PoeMerchant/releases/download/1.1.0.5/Poe.Merchant.exe)
 
 This is a trading automation application for Path of Exile.<br/>
 With the application, you will be able to track profitable prices for trading.<br/>
@@ -19,5 +19,5 @@ To set up filters, just use the familiar [Poe.Trade](https://poe.trade/), then c
 </p>
 
 # Coming Soon
-We are planning to add more options for trading automation. Get started now [Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)
+We are planning to add more options for trading automation. Get started now [Download for Windows](https://github.com/Abaxoth/PoeMerchant/releases/download/1.1.0.5/Poe.Merchant.exe)
 
