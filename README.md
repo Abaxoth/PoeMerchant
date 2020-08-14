@@ -6,3 +6,4 @@ With the application, you will be able to track profitable prices for trading.<b
 The notification system will allow you to instantly respond to a profitable offer<br/>
 To set up filters, just use the familiar [Poe.Trade](https://poe.trade/), then copy and paste the link into the app to track price changes.<br/>
 ![alt text](https://user-images.githubusercontent.com/45703525/90262649-3b803380-de57-11ea-92ac-09e8d58f240b.png)
+![alt text](https://user-images.githubusercontent.com/45703525/90262649-3b803380-de57-11ea-92ac-09e8d58f240b.png)
