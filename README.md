@@ -5,7 +5,8 @@
 This is a trading automation application for Path of Exile.<br/>
 With the application, you will be able to track profitable prices for trading.<br/>
 The notification system will allow you to instantly respond to a profitable offer<br/>
-To set up filters, just use the familiar [Poe.Trade](https://poe.trade/), then copy and paste the link into the app to track price changes.<br/>
+To set up filters, just use the familiar [PoE Official trade](https://www.pathofexile.com/trade/search), then copy and paste the link into the app to track price changes.<br/>
+There is also support for [Poe.Trade](https://poe.trade/) (Not recommended to use, slower than [PoE Official trade](https://www.pathofexile.com/trade/search))<br/>
 
 # Screenshots
 1) In the first image, you can see the interface that allows you to create an item monitoring application.<br/>
