@@ -20,6 +20,14 @@ There is also support for [Poe.Trade](https://poe.trade/) (Not recommended to us
   <img src="https://user-images.githubusercontent.com/45703525/90262595-2acfbd80-de57-11ea-801b-729d866336d0.png" width="400" alt="Monitoring results">
 </p>
 
+# Screenshots 1.3.0.0
+We have increased ease of use, expanded capabilities, and optimized market analysis algorithms.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45703525/90346859-18ab7600-e035-11ea-83c3-74d23224f49e.jpg" width="350" title="App main page">
+  <img src="https://user-images.githubusercontent.com/45703525/90346836-f1ed3f80-e034-11ea-8b45-d3c1922b29e0.jpg" width="350" alt="Orders">
+  <img src="https://user-images.githubusercontent.com/45703525/90346834-f154a900-e034-11ea-888a-7a1665e03744.jpg" width="350" alt="Buy Requests">
+</p>
+
 # Coming Soon
 We are planning to add more options for trading automation. Get started now [Download for Windows](https://github.com/Abaxoth/PoeMerchant/releases/download/1.2.2.2/Poe.Merchant.exe)
 
