@@ -23,9 +23,9 @@ There is also support for [Poe.Trade](https://poe.trade/) (Not recommended to us
 # Screenshots 1.3.0.0
 We have increased ease of use, expanded capabilities, and optimized market analysis algorithms.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45703525/90346859-18ab7600-e035-11ea-83c3-74d23224f49e.jpg" width="330" title="App main page">
-  <img src="https://user-images.githubusercontent.com/45703525/90346836-f1ed3f80-e034-11ea-8b45-d3c1922b29e0.jpg" width="330" alt="Orders">
-  <img src="https://user-images.githubusercontent.com/45703525/90346834-f154a900-e034-11ea-888a-7a1665e03744.jpg" width="330" alt="Buy Requests">
+  <img src="https://user-images.githubusercontent.com/45703525/90346859-18ab7600-e035-11ea-83c3-74d23224f49e.jpg" width="320" title="App main page">
+  <img src="https://user-images.githubusercontent.com/45703525/90346836-f1ed3f80-e034-11ea-8b45-d3c1922b29e0.jpg" width="320" alt="Orders">
+  <img src="https://user-images.githubusercontent.com/45703525/90346834-f154a900-e034-11ea-888a-7a1665e03744.jpg" width="320" alt="Buy Requests">
 </p>
 
 # Coming Soon
